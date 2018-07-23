@@ -1,0 +1,21 @@
+@font-face {
+    font-family: AnotherDanger;
+    src: url(anotherdanger.otf);
+}
+body{
+    background-image: url("bg.png");
+}
+
+.container{
+    color: red;
+}
+
+h1{
+    
+    font-family: AnotherDanger;
+}
+
+h3{
+    
+    font-family: AnotherDanger;
+}
